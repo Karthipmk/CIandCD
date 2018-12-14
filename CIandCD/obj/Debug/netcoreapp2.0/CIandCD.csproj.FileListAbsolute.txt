@@ -1,0 +1,11 @@
+D:\CIandCD\CIandCD\bin\Debug\netcoreapp2.0\CIandCD.deps.json
+D:\CIandCD\CIandCD\bin\Debug\netcoreapp2.0\CIandCD.runtimeconfig.json
+D:\CIandCD\CIandCD\bin\Debug\netcoreapp2.0\CIandCD.runtimeconfig.dev.json
+D:\CIandCD\CIandCD\bin\Debug\netcoreapp2.0\CIandCD.dll
+D:\CIandCD\CIandCD\bin\Debug\netcoreapp2.0\CIandCD.pdb
+D:\CIandCD\CIandCD\obj\Debug\netcoreapp2.0\CIandCD.csprojResolveAssemblyReference.cache
+D:\CIandCD\CIandCD\obj\Debug\netcoreapp2.0\CIandCD.csproj.CoreCompileInputs.cache
+D:\CIandCD\CIandCD\obj\Debug\netcoreapp2.0\CIandCD.AssemblyInfoInputs.cache
+D:\CIandCD\CIandCD\obj\Debug\netcoreapp2.0\CIandCD.AssemblyInfo.cs
+D:\CIandCD\CIandCD\obj\Debug\netcoreapp2.0\CIandCD.dll
+D:\CIandCD\CIandCD\obj\Debug\netcoreapp2.0\CIandCD.pdb
